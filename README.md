@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://dribbble.com/shots/3162905-Weather-Icon-GIF/attachments/9680723?mode=media" alt="Project Image" width="800" height="450" align="center">
+<img src="https://dribbble.com/shots/3162905-Weather-Icon-GIF/attachments/9680723?mode=media"alt="Project Image">
 
 
 ---
